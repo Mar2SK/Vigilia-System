@@ -1,0 +1,11 @@
+BIENVENIDO ESTAS EN EL GITHUB DE VIGILIA
+---------------------------------------------------------------------------------------- 
+DATOS IMPORTANTES
+----------------------------------------------------------------------------------------
+*OBLIGATORIO DESCARGAR BLYNK( ANDROID O IOS) 
+*  "     "   DESCARGAR IDE DE ARDUINO PARA PROGRAMAR LAS PLACAS
+* CODE Y LIBRERIAS EN PARA DESCARGAR DIRECTAMENTE DESDE LA LISTA DE GITHUB
+* DOCUMENTACION TECNICA Y MANUAL DE USUARIO PARA DESCARGAR DESDE LA LISTA DE GITHUB
+* TODA LA INFORMACION DEL SISTEMA Y LISTA DE ARCHIVOS SE PUEDE DESCARGAR TODA EN UN 
+.ZIP APRETANDO CODE Y DOWNLOAD ZIP
+--------------------------------------------------------------------------------------- 
